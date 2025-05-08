@@ -1,6 +1,7 @@
 
 
 
+
 # Java Task Manager with Deque
 
 This project is a **Java-based Task Manager** application that allows users to organize and manage tasks using a **Deque** (Double-Ended Queue). Tasks can be handled in either **LIFO** (Last In First Out) or **FIFO** (First In First Out) order, depending on user preference.
